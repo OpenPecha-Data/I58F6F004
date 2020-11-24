@@ -3,5 +3,24 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG20788
   title: འཕགས་ཡུལ་རྒྱ་ནག་ཆེན་པོ་བོད་དང་སོག་ཡུལ་རྣམས་སུ་དམ་པའི་ཆོས་བྱུང་ཚུལ་དཔག་བསམ་ལྗོན་བཟང་།
-  volume: ''
+  volume:
+    e31353cb0e11488cb68ba54ed3107f1c:
+      image_group_id: I1KG20838
+      title: Volume 1 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
+        pa'i chos byung tshul dpag bsam ljon bzang /
+      volume_number: 1
+      total_pages: 244
+    0a67cb5479ca409bba234331fd4c05a5:
+      image_group_id: I1KG20839
+      title: Volume 2 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
+        pa'i chos byung tshul dpag bsam ljon bzang /
+      volume_number: 2
+      total_pages: 384
   author: ''
+ebook_metadata:
+  title: འཕགས་ཡུལ་རྒྱ་ནག་ཆེན་པོ་བོད་དང་སོག་ཡུལ་རྣམས་སུ་དམ་པའི་ཆོས་བྱུང་ཚུལ་དཔག་བསམ་ལྗོན་བཟང་།
+  author: ''
+  sku: P007084
+  cover: cover.jpg
+  layers:
+  - pagination
