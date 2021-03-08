@@ -5,20 +5,16 @@ source_metadata:
   title: འཕགས་ཡུལ་རྒྱ་ནག་ཆེན་པོ་བོད་དང་སོག་ཡུལ་རྣམས་སུ་དམ་པའི་ཆོས་བྱུང་ཚུལ་དཔག་བསམ་ལྗོན་བཟང་།
   author: ''
   volumes:
-    e31353cb0e11488cb68ba54ed3107f1c:
+    04fe9368bae2406a86f50c42931345d5:
       image_group_id: I1KG20838
-      title: Volume 1 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
-        pa'i chos byung tshul dpag bsam ljon bzang /
+      title: ''
       volume_number: 1
       total_pages: 244
-      base_file: v001.txt
-    0a67cb5479ca409bba234331fd4c05a5:
+    9ed5dbffb1414e39b8d6f0e08b0d0c36:
       image_group_id: I1KG20839
-      title: Volume 2 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
-        pa'i chos byung tshul dpag bsam ljon bzang /
+      title: ''
       volume_number: 2
       total_pages: 384
-      base_file: v002.txt
 ebook_metadata:
   title: འཕགས་ཡུལ་རྒྱ་ནག་ཆེན་པོ་བོད་དང་སོག་ཡུལ་རྣམས་སུ་དམ་པའི་ཆོས་བྱུང་ཚུལ་དཔག་བསམ་ལྗོན་བཟང་།
   author: ''
