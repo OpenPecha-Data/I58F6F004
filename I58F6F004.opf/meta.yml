@@ -1,25 +1,35 @@
-id: P007084
+id: I58F6F004
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 30/03/2020
-last_modified_at: 2021-12-17 12:40:30.028359
+imported: '2020-03-30T21:18:33+00:00'
+last_modified: '2022-06-09T04:42:07.481402+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W1KG20788
   title: འཕགས་ཡུལ་རྒྱ་ནག་ཆེན་པོ་བོད་དང་སོག་ཡུལ་རྣམས་སུ་དམ་པའི་ཆོས་བྱུང་ཚུལ་དཔག་བསམ་ལྗོན་བཟང་།
   author: ''
-  volumes:
-    e31353cb0e11488cb68ba54ed3107f1c:
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    C575:
       image_group_id: I1KG20838
       title: Volume 1 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
         pa'i chos byung tshul dpag bsam ljon bzang /
-      volume_number: 1
       total_pages: 244
-      base_file: v001.txt
-    0a67cb5479ca409bba234331fd4c05a5:
+      order: 1
+      base_file: C575.txt
+    974F:
       image_group_id: I1KG20839
       title: Volume 2 of 'phags yul rgya nag chen po bod dang sog yul rnams su dam
         pa'i chos byung tshul dpag bsam ljon bzang /
-      volume_number: 2
       total_pages: 384
-      base_file: v002.txt
-  access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
+      order: 2
+      base_file: 974F.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
